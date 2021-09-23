@@ -1,0 +1,35 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+
+.stage-direction {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: blanchedalmond;
+}
+
+.name {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.stage-direction:hover {
+    background-color: crimson;
+    color: white;
+}
+
+.CECILY {
+    color: chartreuse;
+}
+
+.MERRIMAN {
+    color: darkorange;
+}
+
+.ALGERNON {
+    color: hotpink;
+}
