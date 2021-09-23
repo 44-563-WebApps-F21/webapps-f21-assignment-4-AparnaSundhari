@@ -54,3 +54,19 @@ tr:nth-child(odd) {
     text-shadow: 2px 2px yellow;
     border: 2px solid blueviolet;
 }
+
+.navbar-horizontal {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 5px;
+    background-color: black;
+}
+
+li a {
+    display: block;
+    color: white;
+    float: left;
+    padding: 6px;
+    text-decoration: none;
+}
