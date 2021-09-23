@@ -33,3 +33,19 @@
 .ALGERNON {
     color: hotpink;
 }
+
+table {
+    border: 5px solid darkblue;
+    color: brown;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+th {
+    background-color: violet;
+}
+
+tr:nth-child(odd) {
+    background-color: wheat;
+}
